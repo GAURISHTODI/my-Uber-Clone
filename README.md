@@ -9,9 +9,10 @@ TECH USED:
 FEATURES:
 
 (1) Homescreen and Mapscreen, where you can put "Where from?" and "Where To?" data
-(2) Live Distance and Directions fetched using GCP's API, with marker implementation
-(3) Live Fare and Time calculation displayed as per distance, duration and other factors
-(4) Surplus small features:
+(2) Two nested screens, for further selections.
+(3) Live Distance and Directions fetched using GCP's API, with marker implementation
+(4) Live Fare and Time calculation displayed as per distance, duration and other factors
+(5) Surplus small features:
 
     (i) Implemented React-Redux for creating a central data storage unit
     (ii) Implemented tailwind-css using tailwind classnames library
